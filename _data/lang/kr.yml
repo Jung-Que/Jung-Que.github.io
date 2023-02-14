@@ -132,8 +132,8 @@ post-list:
 home:
   title: Welcome
   button_name: Home
-  new_posts_title: New Articles
-  new_posts_show_more_button: View More ...
+  new_posts_title: 새 글
+  new_posts_show_more_button: 더보기 ...
 
 # for archives layout
 archives:
@@ -167,9 +167,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
-  welcome: Welcome
-  sample: Sample
+  greetings: 안녕하세요.
+  welcome: 환영합니다!
+  sample: 샘플
 
 # for contact form
 contact_form:
