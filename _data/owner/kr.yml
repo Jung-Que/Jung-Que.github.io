@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "サイト名"
+brand: "정현서 공부용 블로그"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "作者名"
+name: "정현서"
 
 # home page top header texts
 home:
@@ -42,7 +42,7 @@ creative_commons:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: "メタディスクリプション"
+meta_common_description: "안녕하세요. 빅데이터를 전공하고 있는 정현서입니다"
 
 # contact options (side nav bottom and about page)
 # the order of the items will be shown as here.

@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "Jung_Que Blog For Study"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Your Name"
+name: "Jung Hyeon Seo"
 
 # home page top header texts
 home:
@@ -42,7 +42,7 @@ creative_commons:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: "Your meta description."
+meta_common_description: "Hello I'm majoring in Computer Programming."
 
 # contact options (side nav bottom and about page)
 # the order of the items will be shown as here.
